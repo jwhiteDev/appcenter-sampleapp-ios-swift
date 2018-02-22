@@ -70,7 +70,7 @@ For the next two days you’re going to put App Center to the test to see if it 
 ## Challenge 4- Azure App Insights
 *Est Time to Complete: 90 min*
 
-**Scenario:** You have had your application running for a while now, and have been gathering a great deal of analytics and data. Your teams product lead would like some additional reports on how the application is doing and you are tasked with proving some visual representations of the data.
+**Scenario:** You have had your application running for a while now, and have been gathering a great deal of analytics and data. Your team's product lead would like some additional reports on how the application is doing and you are tasked with providing some visual representations of the data.
 
 **Challenge:** Connect your app to Azure Application Insights, set up a data export, then within App Insights create a chart from some of the exported data. Take bucketed events and put it into a graph that can be measured. (Hint: You may need to run the app after setting up export and generate new events to get it to show up in App Insights)
 
